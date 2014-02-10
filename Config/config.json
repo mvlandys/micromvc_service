@@ -1,0 +1,17 @@
+{
+    "DB": {
+        "enabled"   : "false",
+        "host"      : "localhost",
+        "database"  : "db_name",
+        "username"  : "db_user",
+        "password"  : "db_pass"
+    },
+
+    "Core": {
+        "routing"   : "false",
+        "strictHost": "false",
+        "hostname"  : "localhost",
+        "rootFolder": "/var/www/html/MicroMVC",
+        "logErrors" : "false"
+    }
+}
